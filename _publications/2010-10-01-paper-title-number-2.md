@@ -1,14 +1,13 @@
 ---
-title: "Paper Title Number 2"
+title: "Gravitational-Wave Follow-Up Strategy for the UltraViolet EXplorer (UVEX) Mission with M4OPT"
 collection: publications
 category: manuscripts
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /publication/UVEX-GW-M4OPT
+excerpt: 'The UltraViolet EXplorer (UVEX) is a Medium-Class Explorer (MIDEX) mission selected by NASA for launch in 2030. UVEX will conduct an unprecedented all-sky time-domain survey in two UV filters. UVEX will follow up GW binary neutron star mergers as targets of opportunity, rapidly scanning across their localization regions to search for their kilonova counterparts. Early-time multiband ultraviolet light curves of kilonovae are key to explaining the interplay between jet and ejecta in binary neutron star mergers. Owing to high Galactic extinction in the ultraviolet and UVEX’s large field of view, variation in sensitivity across the GW region of interest is an important consideration for observation planning. We present a strategy for GW follow-up with UVEX in which exposure time is adjusted for each field individual to maximize the overall probability of detection. We have implemented this strategy in an open source astronomical scheduling toolkit called M4OPT (Multi-Mission Multi-Messenger Observation Planning Toolkit) on GitHub.'
+date: 2025-01-31
+venue: 'TBD'
+paperurl: 'paper2.pdf'
+citation: 'L. Singer, A. Criswell, S. Leggio, M. Coughlin. ”Gravitational-Wave Follow-Up Strategy for the UltraViolet EXplorer (UVEX) Mission with M4OPT”. In preparation.
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
