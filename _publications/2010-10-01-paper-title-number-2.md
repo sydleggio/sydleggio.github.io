@@ -7,7 +7,7 @@ excerpt: 'The UltraViolet EXplorer (UVEX) is a Medium-Class Explorer (MIDEX) mis
 date: 2025-01-31
 venue: 'TBD'
 paperurl: 'paper2.pdf'
-citation: 'L. Singer, A. Criswell, S. Leggio, M. Coughlin. ”Gravitational-Wave Follow-Up Strategy for the UltraViolet EXplorer (UVEX) Mission with M4OPT”. In preparation.
+citation: 'L. Singer, A. Criswell, S. Leggio, M. Coughlin. ”Gravitational-Wave Follow-Up Strategy for the UltraViolet EXplorer (UVEX) Mission with M4OPT”. In preparation.'
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
