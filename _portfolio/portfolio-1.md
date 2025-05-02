@@ -11,6 +11,3 @@ collection: portfolio
 * Collaborating with teams to integrate UVEX follow-up strategies, enhancing detection of transient astrophysical events.
 
 * Senior Thesis: Optimizing ToO Strategy for Prospects of EM Follow-up To Gravitational Wave Events with UVEX
-* Publications: 
-  * A. Criswell, S. Leggio, M. Coughlin, et al. ”Electromagnetic Follow-up to Gravitational Wave Events with the UltraViolet EXplorer   (UVEX).” The Astrophysical Journal (submitted). Available on my publications page.
-  * L. Singer, A. Criswell, S. Leggio, M. Coughlin. ”Gravitational-Wave Follow-Up Strategy for the UltraViolet EXplorer (UVEX) Mission with M4OPT”. In preparation.
