@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Sydney Leggio Personal Website"
 title_separator          : "-"
 name                     : &name "Sydney Leggio"
-description              : &description "Prospective physics PhD student in my final year pursuing a bachelor of science in astrophysics and physics at the University of Minnesota."
+description              : &description "Graduate student in physics at the University of Southern California."
 url                      : https://sydleggio.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sydleggio/sydleggio.github.io"
@@ -24,17 +24,17 @@ author:
   avatar           : "Sydney-109.jpg"
   name             : "Sydney Leggio"
   pronouns         : "she/her"  
-  bio              : #"Short biography for the left-hand sidebar"
-  location         : "Minneapolis, MN"
-  employer         : "University of Minnesota"
+  bio              : #
+  location         : "Los Angeles, CA"
+  employer         : "University of Southern California"
   uri              : # URL
-  email            : "leggi014@umn.edu" 
+  email            : "sleggio@usc.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : #"https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : https://scholar.google.com/citations?user=8unv6f0AAAAJ&hl=en
   impactstory      : # URL
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            : https://orcid.org/0009-0000-9360-4759
   semantic         : # URL
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
